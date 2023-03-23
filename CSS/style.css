@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Overpass:ital,wght@0,400;1,700&display=swap');
+
+.body
+{
+    padding: 0px;
+    margin: 0;
+    font-family: 'Overpass', sans-serif;
+}
+
+.card-1
+{
+    background-color: hsl(213, 19%, 18%);
+    display: flex;
+    flex-grow: 20;  
+    border-radius: 10px 10px 10px 10px;
+    display: grid;
+    gap: 40px;
+    color: #FFFFFF;
+    padding: 0px 500px;
+    margin-block: 100px;
+        
+}
+
+.titulo
+{
+    color:hsl(0, 0%, 100%)
+    
+}
+
+.texto
+{
+    color:hsl(217, 12%, 63%)
+    
+}
+
+
+
+.botao
+{
+    border-radius: 10px 10px 10px 10px;
+    background-color: hsl(25, 97%, 53%)   
+  
+}
+
+.nota-link
+{
+    display: flex;
+    text-decoration:none;
+    font-size: 1.15rem;
+    font-weight: 40;
+    color:hsl(217, 12%, 63%)
+}
